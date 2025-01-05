@@ -1,4 +1,6 @@
 export const allTwoLevelSubdomain = [
+    "synology.me",
+    "unluckyforsome.synology.me",
     ".net.ac",
     ".gov.ac",
     ".org.ac",
